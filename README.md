@@ -5,7 +5,7 @@
 * list 3
 
 ## links test
-* [Github] (www.github.com)
-* [SMU] (www.smu.edu)
+* [Github] (https://www.github.com)
+* [SMU] (https://www.smu.edu)
 
 we will add *other* helpful links **later**
