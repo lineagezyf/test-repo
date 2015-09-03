@@ -6,6 +6,6 @@
 
 ## links test
 * [Github] (https://www.github.com)
-* [SMU] (https://www.smu.edu)
+* [SMU] (http://www.smu.edu)
 
 we will add *other* helpful links **later**
